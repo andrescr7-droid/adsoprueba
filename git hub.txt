@@ -1,0 +1,1 @@
+EduManage es un software integral para la gestión académica y administrativa de instituciones educativas. Facilita la planificación y seguimiento de actividades académicas, la gestión de calificaciones, la comunicación entre estudiantes y profesores, y la administración de recursos educativos.
